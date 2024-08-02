@@ -17,7 +17,7 @@ I am Eben J Fourie, a Full-Stack Software Developer with a growing experience in
 
 ## Live Demo
 
-You can view the live demo of my virtual CV website [here](https://your-github-username.github.io/virtual-cv/).
+You can view the live demo of my virtual CV website [here](https://ebenfourie.github.io/virtual-cv/).
 
 ## Features
 
@@ -40,7 +40,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-github-username/virtual-cv.git
+   git clone https://github.com/EbenFourie/virtual-cv.git
    cd virtual-cv
    ```
 2. Open the index.html file in your browser to view the website locally.
